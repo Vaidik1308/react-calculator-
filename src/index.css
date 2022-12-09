@@ -139,8 +139,9 @@ button:hover{
 
   button{
     font-size: 1.4rem;
-    width: 75px;
-    height: 85px;
+    width: 65px;
+    border: black;
+    height: 70px;
     margin: 5px;
     padding: 2px;
   }
@@ -151,7 +152,7 @@ button:hover{
     width: 95vw;
   }
   .App{
-    height: 100vh;
+    height: 95vh;
     width: 312px;
     margin: 10px;
   }
