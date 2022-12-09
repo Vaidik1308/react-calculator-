@@ -135,7 +135,7 @@ button:hover{
 }
 
 
-@media (max-width: 412px) {
+/* @media (max-width: 412px) {
 
   button{
     font-size: 1.4rem;
@@ -156,4 +156,4 @@ button:hover{
     width: 312px;
     margin: 10px;
   }
-}
+} */
