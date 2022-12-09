@@ -141,7 +141,7 @@ button:hover{
     font-size: 1.4rem;
     width: 75px;
     height: 85px;
-    margin: 10px;
+    margin: 5px;
     padding: 2px;
   }
   .final{
@@ -153,5 +153,6 @@ button:hover{
   .App{
     height: 100vh;
     width: 312px;
+    margin: 10px;
   }
 }
